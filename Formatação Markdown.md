@@ -1,0 +1,1 @@
+https://support.zendesk.com/hc/pt-br/articles/4408846544922-Formata%C3%A7%C3%A3o-de-texto-com-Markdown#topic_ycv_mb4_1n
