@@ -19,7 +19,7 @@
 &nbsp;
 ***`main`*** ou ***`master`*** são nomes padrão da branch principal, para a alteração de outras branchs deve-se utilizar o nome da mesma no lugar
 
-- **`git checkout -b "nome da branch"`** alterna o foco do GitBash para uma branch ou cria uma nova branch caso não tenha nenhuma com o nome utilizado e ja posiciona o foco nela
+- **`git checkout nome da branch`** alterna o foco do GitBash para uma branch ou/e cria uma nova branch caso não tenha nenhuma com o nome utilizado e ja posiciona o foco nela (*`-b`* entre checkout e nome da branch)
 
 - **`git branch -M "nome da branch"`** altera o nome da branch em foco (inclusive da principal)
 
