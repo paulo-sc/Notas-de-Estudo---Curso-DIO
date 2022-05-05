@@ -9,7 +9,7 @@
 
 * As pastas são criadas em branchs mesmo que não seja necessario, para que eu me acostume com a utilização da função e fazem merge com a branch principal somente após finalizadas
 
-* Cada pasta de determinado assunto contem 3 arquivos: Resumo, Códigos e Externos
+* Cada pasta de determinado assunto contem 3 arquivos: Resumo, Códigos e Externos; e uma pasta contendo conteudo feito durante a aula
 
 * Os arquivos são .md para me acostumar com a utilização
 

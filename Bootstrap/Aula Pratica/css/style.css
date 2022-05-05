@@ -1,0 +1,31 @@
+body {
+    font: 20px arial, sans-serif;
+}
+
+.marginha {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.navbar {
+    background-color: #9DC5A2;
+}
+
+.gosto-caes {
+    background-color: #AFD6AD;
+    color: darkolivegreen;
+}
+
+.gosto-gatos {
+    background-color: #C2EEC0;
+    color: darkolivegreen;
+}
+
+.servicinho {
+    background-color: #AFD6AD;
+    color: darkolivegreen;
+}
+
+.footinhu {
+    background-color: #9DC5A2;
+}
